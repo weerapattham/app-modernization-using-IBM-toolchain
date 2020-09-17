@@ -1,4 +1,4 @@
  applications:
- - name: cloudnativeapp901
+ - name: cloudnative-weerapattham
    random-route: true
-   memory: 128M
+   memory: 256M
